@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud | DevOps Engineer
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Cloud | DevOps Project
-- 📫 How to reach me by [Linkedin](https://www.linkedin.com/in/ahakimx)
+- 📫 See my activities/notes: [Personal blog](https://www.theha.kim)
 
 <!---
 ahakimx/ahakimx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
