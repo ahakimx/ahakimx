@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud | DevOps Engineer
 - 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on Cloud | DevOps Project
-- 📫 See my activities/notes: [Personal blog](https://ahakimx.hashnode.dev/)
+- 📫 See my activities/notes: [Personal blog](https://ahakimx.com/)
 
 <!---
 ahakimx/ahakimx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
